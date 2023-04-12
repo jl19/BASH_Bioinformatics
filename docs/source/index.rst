@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   
+   Lumach has its documentation hosted on Read the Docs
